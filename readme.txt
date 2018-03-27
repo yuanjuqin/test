@@ -21,3 +21,7 @@
 5. git pull origin master // 把本地仓库的变化连接到远程仓库主分支
 
 6. git push -u origin master //把本地仓库的文件推送到远程仓库
+
+
+
+test github to local
